@@ -1,0 +1,2 @@
+Algorithm,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index,Explained Variance
+DBSCAN,0.015756319214431217,1.0590897445512966,14.05401890882121,0.9553802493143346

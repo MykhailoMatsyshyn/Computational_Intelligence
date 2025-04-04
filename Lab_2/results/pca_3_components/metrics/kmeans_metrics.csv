@@ -1,0 +1,2 @@
+Algorithm,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index,Explained Variance
+KMeans,0.50556107512321,0.7528221456466779,137.65619184147522,0.8536213527240326

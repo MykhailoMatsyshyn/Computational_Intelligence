@@ -1,0 +1,2 @@
+Algorithm,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index,Eps,Min Samples,Clusters Found,Noise Points
+DBSCAN,0.48379038524144125,1.9327158665818553,45.7180620123333,1.4000000000000001,4,2,19

@@ -1,0 +1,2 @@
+Algorithm,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index,FPC,Explained Variance
+Fuzzy C-Means,0.5159050425203597,0.7429836587887166,145.11750309916462,0.7680008543094518,0.8536213527240326
