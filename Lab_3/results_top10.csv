@@ -1,0 +1,11 @@
+Expedia,Booking,Jaro-Winkler,Soundex,Damerau-Levenshtein,Ймовірність,Рішення
+Deluxe Suite,Deluxe Suite,1.00,1.00,0.0,87%,Належить
+"Room, 1 Queen Bed, Accessible, Bathtub",Queen Room - Disability Access,0.65,0.00,29.0,87%,Належить
+"Regency Club, Mountain View",Regency Club Mountain View,0.98,1.00,1.0,87%,Належить
+"Regency Club, Ocean View",Regency Club Ocean View,0.98,1.00,1.0,87%,Належить
+"Room, 1 King Bed, Ocean View",Ocean View Room With King Bed,0.84,0.00,25.0,87%,Належить
+"Room, 1 King Bed, Resort View (Alii)",Alii Tower Resort View With King Bed,0.75,0.00,27.0,87%,Належить
+"Room, 1 King Bed, Accessible, Resort View (Alii, Bathtub)",Alii Tower Resort View With King Bed - Mobility Accessible Tub,0.59,0.00,52.0,87%,Належить
+"High-Floor Premium Room, 1 King Bed",High-Floor Premium King Room,0.89,1.00,12.0,85%,Належить
+"Traditional Double Room, 2 Double Beds",Double Room with Two Double Beds,0.77,0.00,20.0,85%,Належить
+"Room, 1 King Bed, Accessible",King Room - Disability Access,0.70,0.00,20.0,85%,Належить
